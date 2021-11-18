@@ -18,6 +18,8 @@ E.G.
 
 Would become...
 
+HEEEEELLLLLOOOOOOO
+
 ```js
 const favoriteFoods = ["Cheese", "Chocolate", "Olives", "Anchovies"];
 ```
